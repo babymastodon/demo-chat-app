@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.chat-log {
+  height: 400px;
+  overflow-y: auto;
+  background-color: #f8f9fa;
+}
+p.small {
+  font-size: 0.8rem;
+}
+
